@@ -85,3 +85,24 @@ section {
 	object-fit: fill;
 	pointer-events: none;
 }
+
+.parallax-home #text{
+    position: absolute;
+    font-size: 4.5rem;
+    /* text-shadow: 0 10px 4px rgba(0,0, 0, 0.85); */
+    /* top: 85%;
+    left: 3%; */
+    border-radius: 25px;
+    transition: all 0.3s ease-in-out;
+    /* border: 2px solid white; */
+    
+
+}
+
+.parallax-home #text:hover{
+    box-shadow: 0 0 1rem yellow;
+    background: yellow;
+    color: black;
+
+}
+
