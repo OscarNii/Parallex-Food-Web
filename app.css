@@ -82,6 +82,6 @@ section {
 }
 .parallax-home img {
 	position: absolute;
-	object-fit: cover;
+	object-fit: contain;
 	pointer-events: none;
 }
