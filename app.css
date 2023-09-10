@@ -15,7 +15,7 @@
 
     background-color: #67ccff;
 }
-::-webkit-slider-thumb{
+::-webkit-scrollbar-thumb{
     background-color: #194eb9;
     border-radius: 5rem;
 }
