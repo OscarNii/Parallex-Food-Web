@@ -72,3 +72,19 @@ transition: all .3s ease-in;
     background: yellow;
     color: black;
 }
+
+section{
+    min-height: 100vh;
+}
+.parallax-home{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+}
+.parallax-home img{
+    position: absolute;
+    object-fit: cover;
+    pointer-events: none;
+}
