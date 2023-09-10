@@ -67,8 +67,8 @@ transition: all .3s ease-in;
 
 }
 
-.navlist li a:hover{
+.navlist li a:hover, .navlist li a.Active{
     box-shadow: 0 0 1rem yellow;
     background: yellow;
-    color: white;
+    color: black;
 }
