@@ -27,7 +27,7 @@ body {
 		url(Images/icecream.png);
 	background-position: center;
 	background-size: cover;
-	height: 109vh;
+	height: 100vh;
 	color: hsl(0, 0%, 100%);
 	overflow-x: hidden;
 }
